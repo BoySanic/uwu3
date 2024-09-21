@@ -1,0 +1,6 @@
+# Ignore bin and obj directories from any project
+**/bin/
+**/obj/
+
+# Ignore Visual Studio .vs folder
+**/.vs/
